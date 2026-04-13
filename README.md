@@ -22,7 +22,7 @@ An administrative panel is included for managing cars, users, locations, and ren
 ## Setup Instructions
 ```bash
 git clone <repo-url>
-cd DjangoHw/Rent
+cd CarRent/Rent
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
